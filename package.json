@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
   "repository": {
@@ -19,7 +18,7 @@
   },
   "homepage": "https://github.com/tylercasperson/accessibility#readme",
   "dependencies": {
-    "express": "^4.19.2",
-    "pa11y": "^8.0.0"
+    "express": "^4.17.1",
+    "pa11y": "^6.0.1"
   }
 }
