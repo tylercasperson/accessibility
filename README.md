@@ -2,7 +2,7 @@
 
 ---
 
-I wanted to learn more about accessibility. This website followed a tutorial from a [Brad Traversy tutorial]([https://www.udemy.com/user/brad-traversy/](https://www.youtube.com/watch?v=MO4vEAu3hKE&t=47s). I will probably combine this tool with some others to make sure everything checks out before I publish a site.
+I wanted to learn more about accessibility. This website followed a tutorial from a [Brad Traversy tutorial]([https://www.youtube.com/brad-traversy/](https://www.youtube.com/watch?v=MO4vEAu3hKE&t=47s). I will probably combine this tool with some others to make sure everything checks out before I publish a site.
 
 ### Features
 
